@@ -1,0 +1,2 @@
+south_pop	north_pop	cerrado_pop
+Expansion	Expansion	Bottleneck

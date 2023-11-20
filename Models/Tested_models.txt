@@ -1,0 +1,4 @@
+Demographic_model	Spatial_model	Demographic_Spatial_model
+1	0	0
+0	1	0
+0	0	1
